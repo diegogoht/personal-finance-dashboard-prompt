@@ -1,0 +1,1 @@
+{"name":"Personal Finance Dashboard","short_name":"Finance","description":"Dashboard de finanzas personales con guardado local.","start_url":".","display":"standalone","background_color":"#ffffff","theme_color":"#2563eb","lang":"en","scope":"./","icons":[{"src":"/pwa-icon.svg","sizes":"512x512","type":"image/svg+xml"}]}
